@@ -42,7 +42,7 @@ iframe {border-radius:20px;margin-top:20px}
   <div class="hero-content">
     <h1>Danbar Cafe & Restaurant ☕🍽️</h1>
     <p>Kafee + Cunto + Nasasho + Sawiro = Hal Meel</p>
-    <a class="button" href="https://wa.me/252000000000">Dalbo / Book WhatsApp</a>
+    <a class="button" href="https://wa.me/252615769696">Dalbo / Book WhatsApp</a>
   </div>
 </section>
 
@@ -85,7 +85,7 @@ iframe {border-radius:20px;margin-top:20px}
 <div class="section cta">
 <h2>📲 Book Now</h2>
 <p>Dalbo ama Booqo maanta</p>
-<a class="button" href="https://wa.me/252000000000">WhatsApp</a>
+<a class="button" href="https://wa.me/252614019292">WhatsApp</a>
 </div>
 
 <div class="section">
@@ -115,3 +115,5 @@ window.addEventListener('scroll', () => {
 
 </body>
 </html>
+
+
